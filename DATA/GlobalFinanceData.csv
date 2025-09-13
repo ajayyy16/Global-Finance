@@ -1,0 +1,11 @@
+﻿Country,Date,Stock_Market_Index,Daily_Change_Percent,Inflation_Rate_Percent,GDP_Growth_Percent,Interest_Rate_Percent,Foreign_Exchange_Reserves_USD_Billion,Credit_Rating,Unemployment_Rate_Percent,Currency_Volatility_Percent,Trade_Balance_Percent_GDP,Economic_Outlook
+USA,01-09-2023,4500,0.5,3.2,2.1,5.25,42000,AA+,3.8,4.1,-2.5,Stable
+India,01-09-2023,19500,-0.2,5.4,6.8,6.5,600,BBB,7.2,6.5,-1.8,Positive
+China,01-09-2023,3200,0.3,2.5,5.5,3.65,3200,A+,5.1,5.2,1.2,Stable
+Germany,01-09-2023,15700,0.1,2,1.9,4.5,270,AAA,3.4,2.8,7.5,Strong
+Brazil,01-09-2023,115000,-0.4,6.5,3.2,13.75,360,BB,8.9,9.3,-0.9,Negative
+Japan,01-09-2023,32000,0.2,0.8,1.5,-0.1,1250,A,2.6,3.1,3.5,Stable
+UK,01-09-2023,7400,0.6,3.1,2,5,210,AA,4.5,4,-1.2,Stable
+South Africa,01-09-2023,67000,-0.3,7.2,2.7,8.25,55,BB+,11.7,12,-2.8,Weak
+Canada,01-09-2023,20500,0.2,2.8,1.8,4.75,120,AAA,5.2,3.6,0.4,Stable
+Australia,01-09-2023,7300,-0.1,3.5,2.5,4.1,80,AA-,4,4.5,1,Positive
