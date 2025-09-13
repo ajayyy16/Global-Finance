@@ -1,1 +1,1 @@
-# finance-data
+# Global Finance SQL Analysis 
